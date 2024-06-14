@@ -9,16 +9,16 @@
 
 ## About Me
 
-Hello! I'm Sabkat Ahmed Rafi, a dedicated and enthusiastic programmer with a strong specialization in modern web technologies. As a developer proficient in the MERN stack, I excel in creating dynamic and responsive web applications.
+Hello! I'm Sabkat Ahmed Rafi, a programmer with a strong specialization in modern web technologies. As a developer proficient in the MERN stack, I excel in creating dynamic and responsive web applications.
 
 ## Skills
 
-Python, C++, JavaScript  
-HTML, CSS, React  
-Node.js, Express.js  
-MongoDB  
-OOP Concepts & Implementation  
-Git, GitHub
+- **Programming Languages:** Python, C++, JavaScript
+- **Front-End Development:** HTML, CSS, React
+- **Back-End Development:** Node.js, Express.js
+- **Database Management:** MongoDB
+- **Version Control:** Git, GitHub
+
 
 <!--
 ## Projects
