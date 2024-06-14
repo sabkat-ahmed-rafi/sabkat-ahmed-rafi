@@ -13,10 +13,13 @@ Hello! I'm Sabkat Ahmed Rafi, a dedicated and enthusiastic programmer with a str
 
 ## Skills
 
-- **Front-End Development:** HTML, CSS, JavaScript, React
-- **Back-End Development:** Node.js, Express.js
-- **Database Management:** MongoDB
-- **Version Control:** Git, GitHub
+Python, C++, JavaScript  
+HTML, CSS, React  
+Node.js, Express.js  
+MongoDB  
+OOP Concepts & Implementation  
+Git, GitHub
+
 <!--
 ## Projects
 
