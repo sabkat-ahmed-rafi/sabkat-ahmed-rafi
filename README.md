@@ -38,10 +38,11 @@ Another brief description of a different project. Include any notable achievemen
 
 ## Contact
 
-- **Email:** [sabkatahmedrafi@gmail.com]
-- **LinkedIn:** [https://www.linkedin.com/in/sabkat-ahmed-rafi-34b3a82a5/]
-- **Twitter:** [https://x.com/SabkatAhmedRafi]
-- **Facebook:** [https://www.facebook.com/sabkatahmedrafi/]
+- **Email:** <sabkatahmedrafi@gmail.com>
+- **LinkedIn:** [Sabkat Ahmed Rafi](https://www.linkedin.com/in/sabkat-ahmed-rafi-34b3a82a5/)
+- **Twitter:** [SabkatAhmedRafi](https://twitter.com/SabkatAhmedRafi)
+- **Facebook:** [Sabkat Ahmed Rafi](https://www.facebook.com/sabkatahmedrafi/)
+
 
 Feel free to reach out to me through any of the platforms listed above!
 
