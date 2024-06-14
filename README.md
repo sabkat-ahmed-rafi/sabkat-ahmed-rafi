@@ -1,4 +1,4 @@
-![Alt Text](https://ibb.co/TtdRMfp)
+![code or die](https://i.ibb.co/3cQWm3G/meme.gif)
 
 <!---
 sabkat-ahmed-rafi/sabkat-ahmed-rafi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
