@@ -1,4 +1,4 @@
-![code or die](https://media1.tenor.com/m/AAmoI9l1JnkAAAAC/meme.gif)
+![code or die](https://media1.tenor.com/m/8S_CuT8s2_oAAAAC/bruce-almighty-comedy.gif)
 
 <!---
 sabkat-ahmed-rafi/sabkat-ahmed-rafi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
