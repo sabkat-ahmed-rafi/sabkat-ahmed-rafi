@@ -1,51 +1,47 @@
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 0 0 150px; margin-right: 20px;">
-    <img src="your-photo-url.jpg" alt="Sabkat Ahmed Rafi" style="width: 100%; border-radius: 50%;">
-  </div>
-  <div>
-    # Sabkat Ahmed Rafi
+![Sabkat Ahmed Rafi](https://media1.tenor.com/m/8S_CuT8s2_oAAAAC/bruce-almighty-comedy.gif)
 
-    **Web Developer**
 
-    ---
+# Sabkat Ahmed Rafi
 
-    ## About Me
+**Web Developer**
 
-    Hello! I'm Sabkat Ahmed Rafi, a passionate web developer specializing in modern web technologies. With a strong background in the MERN stack and React, I enjoy creating dynamic and responsive web applications.
+---
 
-    ## Skills
+## About Me
 
-    - **Front-End Development:** HTML, CSS, JavaScript, React
-    - **Back-End Development:** Node.js, Express.js
-    - **Database Management:** MongoDB
-    - **Version Control:** Git, GitHub
-    - **Other Tools:** Docker, AWS
+Hello! I'm Sabkat Ahmed Rafi, a passionate web developer specializing in modern web technologies. With a strong background in the MERN stack and React, I enjoy creating dynamic and responsive web applications.
 
-    ## Projects
+## Skills
 
-    ### Project Name 1
-    A brief description of your project. Highlight the technologies used and the purpose of the project.
+- **Front-End Development:** HTML, CSS, JavaScript, React
+- **Back-End Development:** Node.js, Express.js
+- **Database Management:** MongoDB
+- **Version Control:** Git, GitHub
+- **Other Tools:** Docker, AWS
 
-    ### Project Name 2
-    Another brief description of a different project. Include any notable achievements or features.
+## Projects
 
-    ## Education
+### Project Name 1
+A brief description of your project. Highlight the technologies used and the purpose of the project.
 
-    - **Degree Name** (e.g., Bachelor of Science in Computer Science)
-    - **Institution Name**
-    - **Graduation Year**
+### Project Name 2
+Another brief description of a different project. Include any notable achievements or features.
 
-    ## Contact
+## Education
 
-    - **Email:** [Your Email]
-    - **LinkedIn:** [Your LinkedIn Profile]
-    - **Website:** [Your Personal Website]
-    - **Twitter:** [Your Twitter Profile]
+- **Degree Name** (e.g., Bachelor of Science in Computer Science)
+- **Institution Name**
+- **Graduation Year**
 
-    Feel free to reach out to me through any of the platforms listed above!
+## Contact
 
-    ---
+- **Email:** [Your Email]
+- **LinkedIn:** [Your LinkedIn Profile]
+- **Website:** [Your Personal Website]
+- **Twitter:** [Your Twitter Profile]
 
-    Thank you for visiting my profile. I'm always open to discussing new projects, collaborations, or opportunities. Let's connect!
-  </div>
-</div>
+Feel free to reach out to me through any of the platforms listed above!
+
+---
+
+Thank you for visiting my profile. I'm always open to discussing new projects, collaborations, or opportunities. Let's connect!
