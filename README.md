@@ -13,12 +13,10 @@ Hello! I'm Sabkat Ahmed Rafi, a programmer with a strong specialization in moder
 
 ## Skills
 
-- **Programming Languages:** Python, C++, JavaScript
+- **Programming Languages:** JavaScript
 - **Front-End Development:** HTML, CSS, React
 - **Back-End Development:** Node.js, Express.js
 - **Database Management:** MongoDB
-- **Version Control:** Git, GitHub
-
 
 <!--
 ## Projects
