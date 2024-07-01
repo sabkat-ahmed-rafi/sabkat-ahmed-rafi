@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="70%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
-<p size='50px'>I'm Sabkat Ahmed Rafi</p>
+<p width='50px'>I'm Sabkat Ahmed Rafi</p>
 <p>A Programmer and Developer</p>
   <br />
   <br />
