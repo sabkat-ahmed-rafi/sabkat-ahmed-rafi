@@ -1,9 +1,8 @@
 <div align="center">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="70%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
-<h2>I'm Sabkat Ahmed Rafi, A Programmer and Developer</h2>
+<h2>I'm Sabkat Ahmed Rafi, A Programmer and Developer <p></p></h2>
   
-  <br />
 </div>
 
 
