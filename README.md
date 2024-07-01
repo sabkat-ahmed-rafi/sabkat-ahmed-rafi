@@ -9,7 +9,8 @@
 
 ## About Me
 
-Hello! I'm Sabkat Ahmed Rafi, a programmer with a strong specialization in modern web technologies. As a developer proficient in the MERN stack, I excel in creating dynamic and responsive web applications.
+Hello! I'm Sabkat Ahmed Rafi, a programmer with a strong specialization in modern web technologies. As a developer proficient in the MERN stack, I excel in creating dynamic and responsive web applications. 
+[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
 
 ## Skills
 
