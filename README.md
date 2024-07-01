@@ -1,11 +1,9 @@
-![Sabkat Ahmed Rafi](https://media1.tenor.com/m/8S_CuT8s2_oAAAAC/bruce-almighty-comedy.gif)
-
 <h2 align="left">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Sabkat Ahmed Rafi, Programmer :computer:<br>
   <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+    ![Sabkat Ahmed Rafi](https://media1.tenor.com/m/8S_CuT8s2_oAAAAC/bruce-almighty-comedy.gif)
  </abc>
 </h2> 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
