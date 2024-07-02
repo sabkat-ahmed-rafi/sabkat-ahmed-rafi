@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
  <h1>Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> I'm Rafi, A Programmer and Developer <p></p></h1>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
 </div>
 
 
