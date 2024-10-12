@@ -31,7 +31,7 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm a Programmer and a Frontend Developer, currently exploring Frontend technologies
-- :hourglass_flowing_sand: Exploring Next.js & Typescript
+- :hourglass_flowing_sand: Exploring Data Structure and Algorithm
 - :rocket: Always ready to collaborate for Dev Experiments
 - :dart: Life Hack: "Code like a pro, debug like a detective 🕵️‍♂️
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
