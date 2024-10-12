@@ -14,7 +14,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://next.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://node.js/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="react" width="40" height="40"/> </a>
       <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://next.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="react" width="40" height="40"/> </a>
       <a href="https://redux.js" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" alt="nodejs" width="40" height="40"/> </a>
