@@ -21,7 +21,6 @@
 > ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 > ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
 > ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-> ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
 
 <br/>
 
