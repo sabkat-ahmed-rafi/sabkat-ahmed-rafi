@@ -54,7 +54,9 @@
 
 <h2 align="left">👊: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-sabkatahmedrafi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imsivram1999/)]([https://www.linkedin.com/in/sabkat-ahmed-rafi](https://www.linkedin.com/in/sabkat-ahmed-rafi)/)  [![Twitter Badge](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FSabkatAhmedRafi)](https://x.com/SabkatAhmedRafi) [![Facebook Badge](https://img.shields.io/badge/-@SabkatAhmedRafi-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/jonnalagadda.shivaram)](https://www.facebook.com/sabkatahmedrafi/) [![Instagram Badge](https://img.shields.io/badge/-sabkatahmedrafi-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)](https://www.instagram.com/sabkatahmedrafi/)
+[![Linkedin Badge](https://img.shields.io/badge/-sabkatahmedrafi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imsivram1999/)](https://www.linkedin.com/in/sabkat-ahmed-rafi)  
+[![Twitter Badge](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FSabkatAhmedRafi)](https://x.com/SabkatAhmedRafi) [![Facebook Badge](https://img.shields.io/badge/-@SabkatAhmedRafi-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/jonnalagadda.shivaram)](https://www.facebook.com/sabkatahmedrafi/) 
+[![Instagram Badge](https://img.shields.io/badge/-sabkatahmedrafi-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)](https://www.instagram.com/sabkatahmedrafi/)
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
