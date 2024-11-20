@@ -54,7 +54,8 @@
 
 <h2 align="left">👊: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-sabkatahmedrafi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imsivram1999/)](https://www.linkedin.com/in/sabkat-ahmed-rafi)  
+[![Linkedin Badge](https://img.shields.io/badge/-sabkatahmedrafi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imsivram1999/)](https://www.linkedin.com/in/sabkat-ahmed-rafi) 
+[![Leetcode Badge](https://img.shields.io/badge/-sabkatahmedrafi-C48120?style=flat-square&logo=Leetcode&logoColor=10121A&link=https://leetcode.com/u/1uDaCebgUw/)](https://leetcode.com/u/1uDaCebgUw/)  
 [![Twitter Badge](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FSabkatAhmedRafi)](https://x.com/SabkatAhmedRafi) [![Facebook Badge](https://img.shields.io/badge/-@SabkatAhmedRafi-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/jonnalagadda.shivaram)](https://www.facebook.com/sabkatahmedrafi/) 
 [![Instagram Badge](https://img.shields.io/badge/-sabkatahmedrafi-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)](https://www.instagram.com/sabkatahmedrafi/)
 
