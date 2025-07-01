@@ -35,7 +35,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm a Programmer and a Frontend Developer, currently exploring Frontend technologies
+- :computer: I'm a Programmer and a Developer, currently exploring Web technologies
 - :hourglass_flowing_sand: Exploring Data Structure and Algorithm
 - :rocket: Always ready to collaborate for Dev Experiments
 - :dart: Life Hack: "Code like a pro, debug like a detective 🕵️‍♂️
