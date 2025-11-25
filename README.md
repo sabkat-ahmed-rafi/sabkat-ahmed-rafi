@@ -33,11 +33,18 @@
 
 ### 🌐 Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/sabkat-ahmed-rafi">LinkedIn</a> •
-  <a href="https://leetcode.com/u/1uDaCebgUw/">LeetCode</a> •
-  <a href="https://x.com/SabkatAhmedRafi">Twitter</a>
+  <a href="https://www.linkedin.com/in/sabkat-ahmed-rafi">
+    <img src="https://img.shields.io/badge/LinkedIn-sabkat--ahmed--rafi-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/1uDaCebgUw/">
+    <img src="https://img.shields.io/badge/LeetCode-sabkatahmedrafi-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://x.com/SabkatAhmedRafi">
+    <img src="https://img.shields.io/badge/Twitter-@SabkatAhmedRafi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
 </p>
 
-<div align="center">
+
+<div align="center" color="white">
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" width="100%"/>
 </div>
