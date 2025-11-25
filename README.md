@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Rafi</h1>
-  <p><strong>Full-Stack Developer</strong></p>
+  <h3><strong>Full-Stack Developer</strong></h3>
 </div>
 
 ---
@@ -24,8 +24,8 @@
 
 ### 👨🏻‍💻 About Me
 <p align="center">
-  I build scalable web apps with clean architecture, modern JavaScript, and efficient backend systems.  
-  Focused on full-stack development, performance, and clean code.  
+  I build web applications and pretend I understand everything.  
+  I focus on writing code that future me (and hopefully anyone else) can read, understand, and maintain without crying.    
 </p>
 
 
