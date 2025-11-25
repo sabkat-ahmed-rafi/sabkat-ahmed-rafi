@@ -46,5 +46,5 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=000000&center=true&width=600&lines=Thanks+for+visiting!+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=ffffff&center=true&width=600&lines=Thanks+for+visiting!" />
 </p>
