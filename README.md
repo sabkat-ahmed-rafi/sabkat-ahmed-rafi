@@ -34,13 +34,13 @@
 ### 🌐 Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/sabkat-ahmed-rafi">
-    <img src="https://img.shields.io/badge/LinkedIn-sabkat--ahmed--rafi-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/1uDaCebgUw/">
-    <img src="https://img.shields.io/badge/LeetCode-sabkatahmedrafi-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
   <a href="https://x.com/SabkatAhmedRafi">
-    <img src="https://img.shields.io/badge/Twitter-@SabkatAhmedRafi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
 
